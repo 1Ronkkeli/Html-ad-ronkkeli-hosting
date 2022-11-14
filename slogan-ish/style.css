@@ -1,0 +1,160 @@
+html, body {
+  height: 100%;
+  width: 100%;
+  background-color: #333333;
+}
+
+#about {
+  color: violet;
+
+  margin-left: 2%;
+
+  size: 130%;
+  font-family:'Courier New', Courier, monospace;
+  font-size: 200%;
+  position: relative;
+  
+  text-align: center;
+  
+}
+
+#why {
+
+  color: violet;
+
+  margin-left: 2%;
+
+  size: 130%;
+  font-family:'Courier New', Courier, monospace;
+  font-size: 170%;
+  position: relative;
+  
+  text-align: center;
+  
+}
+
+
+#t1 {
+  color: violet;
+
+  margin-left: 2%;
+
+  size: 130%;
+  font-family:'Courier New', Courier, monospace;
+  font-size: 150%;
+  position: relative;
+  
+  text-align: center;
+  
+}
+
+#t2 {
+  color: violet;
+
+  margin-left: 2%;
+
+  size: 130%;
+  font-family:'Courier New', Courier, monospace;
+  font-size: 150%;
+  position: relative;
+  
+  text-align: center;
+  
+}
+
+#t3 {
+  color: violet;
+
+  margin-left: 2%;
+
+  size: 130%;
+  font-family:'Courier New', Courier, monospace;
+  font-size: 150%;
+  position: relative;
+  
+  text-align: center;
+  
+}
+
+#t4 {
+
+  color: violet;
+
+  margin-left: 2%;
+
+  size: 130%;
+  font-family:'Courier New', Courier, monospace;
+  font-size: 150%;
+  position: relative;
+  
+  text-align: center;
+}
+
+#t5 {
+  color: violet;
+  
+  margin-left: 2%;
+
+  size: 130%;
+  font-family:'Courier New', Courier, monospace;
+  font-size: 150%;
+  position: relative;
+  
+  text-align: center;
+  
+}
+
+#t6 {
+  color: violet;
+
+  margin-left: 2%;
+
+  size: 130%;
+  font-family:'Courier New', Courier, monospace;
+  font-size: 150%;
+  position: relative;
+  
+  text-align: center;
+  
+}
+
+#diff2 {
+  color: violet;
+
+  margin-left: 2%;
+
+  size: 130%;
+  font-family:'Courier New', Courier, monospace;
+  font-size: 150%;
+  position: relative;
+  
+  text-align: center;
+  margin-left: 43.5%;
+  
+}
+
+#diff {
+
+  color: violet;
+
+  margin-left: 2%;
+
+  size: 130%;
+  font-family:'Courier New', Courier, monospace;
+  font-size: 150%;
+  position: relative;
+  
+  text-align: center;
+  align-content: center;
+  align-self: center;
+  margin-left: 46%;
+  
+
+  
+}
+
+#gif {
+  margin-left: 38%;
+  margin-top: 4%;
+  
+}
